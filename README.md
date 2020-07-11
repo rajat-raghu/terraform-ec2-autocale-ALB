@@ -7,7 +7,7 @@ steps:
 3. terrafrom apply
 
 
-# go to aws vpc in default VPC -> squrity groups 
+# go to aws vpc in default VPC -> security groups 
  in created sg  change inbound rule to  to anywehere (0.0.0.0:0)
  
  to destroy
